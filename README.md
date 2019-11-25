@@ -24,12 +24,14 @@
 
 
 舉例說明：
-
-// 總之，意思是預設避免畫地自限，造成日後型別轉換無法轉成功的煩惱 （中了窄化的計）！
+總之，意思是預設避免畫地自限，造成日後型別轉換無法轉成功的煩惱 （中了窄化的計）！
 
     [1] char 可以 type cast 到 int, 但無法 vise versa。
 
     [2] double 可以 type cast 到 int, 但無法 vise versa。
 
     [3] float 可以 type cast 到 double, 但無法 vise versa。
+
+
+
 
