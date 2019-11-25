@@ -17,5 +17,7 @@
 
 [1] char 可以 type cast 到 int, 但無法 vise versa。
 
-[2] float 可以 type cast 到 int, 但無法 vise versa。
+[2] double 可以 type cast 到 int, 但無法 vise versa。
+
+[3] float 可以 type cast 到 double, 但無法 vise versa。
 
