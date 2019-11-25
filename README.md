@@ -10,3 +10,5 @@
                     c = val; // 常見
 
                     d(val); // 少見
+>>>
+使用 {} 符號，推薦使用 list initialization (可避免窄化)。
